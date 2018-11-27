@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include cargonext *.css
+recursive-include cargonext *.csv
+recursive-include cargonext *.html
+recursive-include cargonext *.ico
+recursive-include cargonext *.js
+recursive-include cargonext *.json
+recursive-include cargonext *.md
+recursive-include cargonext *.png
+recursive-include cargonext *.py
+recursive-include cargonext *.svg
+recursive-include cargonext *.txt
+recursive-exclude cargonext *.pyc
