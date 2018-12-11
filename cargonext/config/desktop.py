@@ -33,11 +33,11 @@ def get_data():
                         "label": _("Customs")
                 },
 		{
-			"module_name": "Trucking", 
+			"module_name": "Transport", 
                         "color": "orange",
                         "icon": "fa fa-truck",
                         "type": "module",
-                        "label": _("Trucking")
+                        "label": _("Transport")
 		},
                 {
                         "module_name": "Warehouse",
